@@ -1,0 +1,16 @@
+com\example\FleetGPS\payload\request\VehicleRequest.class
+com\example\FleetGPS\payload\request\GPSLogRequest.class
+com\example\FleetGPS\controller\VehicleController.class
+com\example\FleetGPS\service\vehicle\VehicleServiceImpl.class
+com\example\FleetGPS\service\gpslog\GPSLogService.class
+com\example\FleetGPS\controller\GPSLogController.class
+com\example\FleetGPS\repository\GPSLogRepository.class
+com\example\FleetGPS\model\Vehicle.class
+com\example\FleetGPS\repository\VehicleRepository.class
+com\example\FleetGPS\service\gpslog\GPSLogsServiceImpl.class
+com\example\FleetGPS\controller\CustomErrorController.class
+com\example\FleetGPS\exception\GlobalExceptionHandler.class
+com\example\FleetGPS\model\GPSLog.class
+com\example\FleetGPS\FleetGpsApplication.class
+com\example\FleetGPS\payload\response\Response.class
+com\example\FleetGPS\service\vehicle\VehicleService.class

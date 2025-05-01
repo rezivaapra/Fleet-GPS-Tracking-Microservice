@@ -1,0 +1,5 @@
+# Created at 2025-05-01T20:24:57.348
+Boot Manifest-JAR contains absolute paths in classpath 'D:\FleetGPS\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
